@@ -1,0 +1,19 @@
+a {
+  text-decoration: none;
+  transition: color .15s ease-in;
+  color: $link;
+  a:link,
+  a:visited {
+    transition: color .15s ease-in;
+  }
+  a:hover   {
+    transition: color .15s ease-in;
+    color: $link-hover;
+  }
+  a:active  {
+    transition: color .15s ease-in;
+  }
+  a:focus   {
+    transition: color .15s ease-in;
+  }
+}
