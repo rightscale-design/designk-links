@@ -9,20 +9,19 @@ a {
   color: #0A83F6;
 }
 
-a a:link,
-a a:visited {
+a:link, a:visited {
   transition: color .15s ease-in;
 }
 
-a a:hover {
+a:hover {
   transition: color .15s ease-in;
   color: #0769c6;
 }
 
-a a:active {
+a:active {
   transition: color .15s ease-in;
 }
 
-a a:focus {
+a:focus {
   transition: color .15s ease-in;
 }

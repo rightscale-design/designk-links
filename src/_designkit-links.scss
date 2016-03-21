@@ -2,18 +2,18 @@ a {
   text-decoration: none;
   transition: color .15s ease-in;
   color: $link;
-  a:link,
-  a:visited {
+  &:link,
+  &:visited {
     transition: color .15s ease-in;
   }
-  a:hover   {
+  &:hover   {
     transition: color .15s ease-in;
     color: $link-hover;
   }
-  a:active  {
+  &:active  {
     transition: color .15s ease-in;
   }
-  a:focus   {
+  &:focus   {
     transition: color .15s ease-in;
   }
 }
