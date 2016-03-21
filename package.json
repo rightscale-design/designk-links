@@ -1,7 +1,7 @@
 {
   "name": "designkit-links",
-  "version": "0.0.1",
-  "description": "Sass module for css *.",
+  "version": "0.0.2",
+  "description": "Sass module for css links at RightScale.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rightscale-design/designkit-links.git"
