@@ -1,9 +1,9 @@
-# Designkit Sample
+# Designkit Links
 
 ## Install
 
 ```bash
-npm i designkit-*
+npm i designkit-links
 ```
 
 ## Usage
