@@ -1,4 +1,5 @@
 # Designkit Links
+Sass module for CSS links at RightScale.
 
 ## Install
 
