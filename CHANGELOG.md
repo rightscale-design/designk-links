@@ -1,3 +1,3 @@
 # v1.0.0
 
-* First release
+* Updated to new directory structure
